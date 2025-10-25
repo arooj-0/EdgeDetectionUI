@@ -43,7 +43,8 @@ It allows users to:
 
 ## Project Structure
 
-```EdgeDetectionUI/
+```
+EdgeDetectionUI/
 │
 ├── app.py # Main Streamlit UI file
 │
