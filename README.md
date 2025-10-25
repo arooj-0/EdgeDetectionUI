@@ -46,7 +46,7 @@ EdgeDetectionUI/
 │ └── image_io.py # PIL ↔ OpenCV conversion helpers
 │
 ├── screenshots/ # Example screenshots of the app
-│ ├── main_ui.png
+│ ├── main_interface.png
 │ ├── canny_output.png
 │ ├── sobel_output.png
 │ └── laplacian_output.png
