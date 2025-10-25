@@ -1,7 +1,7 @@
 # Interactive Edge Detection UI (Streamlit + OpenCV)
 
 An interactive edge detection tool built using **Streamlit** and **OpenCV**.  
-Users can upload an image, select between **Canny**, **Sobel**, and **Laplacian** algorithms, and instantly view the detected edges with adjustable parameters — all with live updates and a clean UI.
+Users can upload an image, select between **Canny**, **Sobel**, and **Laplacian** algorithms, and instantly view the detected edges with adjustable parameters all with live updates and a clean UI.
 
 ---
 
@@ -17,27 +17,18 @@ It allows users to:
 ---
 
 ## Features
-- 📸 Upload any image (JPG, PNG, BMP)  
-- ⚙️ Select from three algorithms:
+-  Upload any image (JPG, PNG, BMP)  
+-  Select from three algorithms:
   - **Canny** – Gradient + Threshold-based edge detection  
   - **Sobel** – Directional derivative (X, Y, Both)  
   - **Laplacian** – Second-order derivative (omnidirectional)  
-- 🎚️ Adjustable parameters:
+-  Adjustable parameters:
   - Kernel size  
   - Sigma (for Gaussian blur)  
   - Thresholds (for Canny)  
-- 🔁 Real-time updates (auto recomputation on slider change)  
-- 💾 Download processed image as PNG  
-- 🧱 Built modularly — processing and UI separated  
-
----
-
-## Tech Stack
-- **Python 3.13**
-- **Streamlit** — frontend interface
-- **OpenCV (cv2)** — image processing backend
-- **Pillow (PIL)** — image conversions
-- **NumPy** — efficient numerical computation
+  - Real-time updates (auto recomputation on slider change)  
+-  Download processed image as PNG  
+-  Built modularly — processing and UI separated  
 
 ---
 
