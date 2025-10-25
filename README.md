@@ -42,7 +42,8 @@ It allows users to:
 ---
 
 ## Project Structure
-EdgeDetectionUI/
+
+```EdgeDetectionUI/
 │
 ├── app.py # Main Streamlit UI file
 │
@@ -60,6 +61,7 @@ EdgeDetectionUI/
 │
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+```
 
 
 ---
