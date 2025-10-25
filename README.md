@@ -47,9 +47,9 @@ EdgeDetectionUI/
 │
 ├── screenshots/ # Example screenshots of the app
 │ ├── main_ui.png
-│ ├── canny_result.png
-│ ├── sobel_result.png
-│ └── laplacian_result.png
+│ ├── canny_output.png
+│ ├── sobel_output.png
+│ └── laplacian_output.png
 │
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
